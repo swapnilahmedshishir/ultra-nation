@@ -1,0 +1,21 @@
+.country{
+    border: 2px solid red;
+    margin: 10px;
+    background-color:gainsboro;
+    padding: 10px;
+    
+}
+button{
+ background-color:yellowgreen;
+ border: 1px solid green;
+ border-radius: 5px;
+ padding: 5px 20px;
+ margin-top: 10px;
+ cursor: pointer;
+}
+img{
+    height:100px;
+    margin: 10px;
+    
+}
+  
